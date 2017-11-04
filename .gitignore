@@ -1,6 +1,6 @@
 *.pyc
 *~
-
+s
 __pycache__
 myvenv
 db.sqlite3
